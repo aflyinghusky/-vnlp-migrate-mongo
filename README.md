@@ -5,7 +5,6 @@ migrate-mongo is a database migration tool for MongoDB running in Node.js extend
 ## Features
 - Migrate data automation
 - Use for cluster mode
-- Apply
 ## Installation
 ````bash
 $ npm install -g @vnlp/migrate-mongo
